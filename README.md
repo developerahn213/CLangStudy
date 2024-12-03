@@ -1,5 +1,2 @@
-# About
-=============
-The purpose of this repository is to remain the study log.
-
-1. LinkedList
+# Study List
+1. Single Linked List
